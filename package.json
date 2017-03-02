@@ -1,0 +1,27 @@
+{
+  "name": "html5-canvas-library",
+  "version": "1.0.0",
+  "description": "little canvas library",
+  "main": "CanvasLibraryMain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrankNewII/CanvasLibrary.git"
+  },
+  "keywords": [
+    "CanvasLibrary",
+    "EasyCanvas"
+  ],
+  "author": "FrankNew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrankNewII/CanvasLibrary/issues"
+  },
+  "homepage": "https://github.com/FrankNewII/CanvasLibrary#readme",
+  "devDependencies": {
+    "karma": "^1.5.0",
+    "karma-jasmine": "^1.1.0"
+  }
+}
